@@ -24,3 +24,7 @@ COURSE STACK CYBERSECURITY COURSES (OFFENSIVE + DEFENSIVE) -
 IBM SKILLS BUILD CYBERSECURITY FUNDAMENTALS - 
 
     https://skills.yourlearning.ibm.com/credential/CREDLY-b8810a57-2c5a-4bbc-81f1-9bfc649ad13d
+
+GREAT LEARNING Ethical Hacking - Mobile Platforms and Network Architecture -
+
+    https://olympus.mygreatlearning.com/courses/34485
