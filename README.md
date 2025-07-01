@@ -16,3 +16,7 @@ CISCO ETHICAL HACKER COURSE -
 FUTURE LEARN AUTOPSY TRAINING -
 
     https://www.futurelearn.com/courses/decoding-forensics/1/todo/130257
+
+COURSE STACK CYBERSECURITY COURSES (OFFENSIVE + DEFENSIVE) -
+
+    https://redteamleaders.coursestack.com/catalog
