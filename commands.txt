@@ -1,3 +1,13 @@
-#John the Ripper Command if u know about the type of hash used and ofcourse need a wordlists -
+1. John the Ripper Command if u know about the type of hash used and ofcourse need a wordlists -
+     
+        john-the-ripper --format=raw-md5 "hast.txt" --wordlist="Listname.txt"  
 
-    john-the-ripper --format=raw-md5 "hast.txt" --wordlist="Listname.txt"  
+2. Hydra Command for http-post-form 
+
+    hydra -l username -P passwordlist IP http-post-form "/login:username=^USER^password=^PASS^:F=incorrect" -V
+
+3. Hydra Command for SSH
+
+    hydra -l <username> -P passlist.txt IP -t 4 ssh 
+                                OR
+    hydra -I <username> -P passlist.txt ssh://IP
