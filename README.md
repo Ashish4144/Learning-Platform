@@ -65,8 +65,3 @@ eLEARNSECURITY / INE FREE COURSES - Foundational pentesting content -
 
     https://ine.com/learning/paths
 
-## CTF Tools
-
-See the [CTF-Tools](CTF-Tools/README.md) folder for a categorized list of tools
-(Web, Crypto, Forensics, Reversing, Pwn, OSINT, Stego, Network, Mobile) useful
-for solving CTF challenges.
